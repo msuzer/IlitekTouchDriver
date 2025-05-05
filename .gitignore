@@ -12,7 +12,7 @@ build/
 *.srec
 
 # CubeMX auto-generated files
-*.ioc
+# *.ioc
 MX_*
 *.log
 
