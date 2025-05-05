@@ -1,4 +1,6 @@
-# Build artifacts
+# Ignore build folders
+Debug/
+Release/
 build/
 *.o
 *.d
