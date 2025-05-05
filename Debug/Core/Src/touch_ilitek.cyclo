@@ -1,0 +1,10 @@
+../Core/Src/touch_ilitek.c:25:13:enqueueEvent	3
+../Core/Src/touch_ilitek.c:33:13:dequeueEvent	3
+../Core/Src/touch_ilitek.c:40:6:ILITEK_Init	1
+../Core/Src/touch_ilitek.c:47:6:ILITEK_ReadTouch	5
+../Core/Src/touch_ilitek.c:66:6:Touch_IsWithinRegion	5
+../Core/Src/touch_ilitek.c:71:6:ILITEK_RegisterRegionHandler	2
+../Core/Src/touch_ilitek.c:77:6:ILITEK_ProcessTouch	2
+../Core/Src/touch_ilitek.c:84:6:ILITEK_PollTouchEvents	14
+../Core/Src/touch_ilitek.c:117:6:ILITEK_CreateGridButtons	3
+../Core/Src/touch_ilitek.c:153:6:HAL_GPIO_EXTI_Callback	2

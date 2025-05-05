@@ -1,0 +1,6 @@
+../Core/Src/main.c:64:6:onTouchDown	1
+../Core/Src/main.c:68:6:onTouchUp	1
+../Core/Src/main.c:72:6:onTouchHold	3
+../Core/Src/main.c:87:5:main	1
+../Core/Src/main.c:178:6:SystemClock_Config	4
+../Core/Src/main.c:229:6:Error_Handler	1
